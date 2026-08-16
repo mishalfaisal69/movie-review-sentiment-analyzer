@@ -7,6 +7,9 @@ A machine learning project that predicts whether a movie review is positive or n
 This project uses Natural Language Processing (NLP) and machine learning to classify movie reviews based on their sentiment.
 
 The model was trained using 2,000 labeled movie reviews from the NLTK Movie Reviews dataset.
+## 📸 Demo
+
+![Movie Review Sentiment Analyzer](https://github.com/mishalfaisal69/movie-review-sentiment-analyzer/blob/main/Screenshot%202026-08-16%20193749.jpg)
 
 ## 🛠️ Technologies Used
 
